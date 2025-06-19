@@ -18,4 +18,4 @@ This project offers a C++ implementation of a system to manage a fleet of "Ship"
 ## Project Structure
 
 * `fleet.h` / `fleet.cpp`: Contains the core `Fleet` class, defining the tree structures and their operations.
-* `tester.cpp`: Includes comprehensive test cases to validate the functionality and balance of each tree type.
+* `mytestFleet.cpp`: Includes comprehensive test cases to validate the functionality and balance of each tree type.
