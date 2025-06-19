@@ -10,9 +10,9 @@ This project offers a C++ implementation of a system to manage a fleet of "Ship"
 
 ## How to Get Started
 
-2.  **Compile**: Use a C++11 compatible compiler. For example, with g++:
+1.  **Compile**: Use a C++11 compatible compiler. For example, with g++:
     `g++ fleet.cpp driver_fleet.cpp -o program`
-3.  **Run**: Execute the compiled program:
+2.  **Run**: Execute the compiled program:
     `./program`
 
 ## Project Structure
